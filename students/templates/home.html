@@ -1,0 +1,15 @@
+{% extends 'base.html' %} {% load static %}
+<!doctype html>
+<html>
+  <head>
+    <title>Django Learning</title>
+  </head>
+  <body>
+    {% block content %}
+
+    <p>Welcome to Django Learning</p>
+    <img src="{% static 'images/profile.jpeg' %}" width="250" />
+    <p>Learning Django Templates</p>
+    {% endblock %}
+  </body>
+</html>
