@@ -23,7 +23,6 @@ This repository contains my Django learning journey and practice projects.
 - Static Images
 
 ## Phase 3: Database & CRUD ✅
-
 ### Models & Database
 - Created Django Models
 - Generated Migrations
