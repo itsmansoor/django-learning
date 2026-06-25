@@ -3,17 +3,30 @@
 This repository contains my Django learning journey and practice projects.
 
 ## 📚 Topics Covered
+## Progress
 
-### Day 1
+### Phase 1: Fundamentals ✅
 - Django Installation
-- Creating a Django Project
-- Understanding Project vs App
-- Creating an App
-- Registering Apps
-- URL Routing
+- Project Creation
+- URLs & Routing
 - Views
-- Request and Response Cycle
-- Running Django Development Server
+- Development Server
+
+### Phase 2: Templates & Static Files ✅
+- HTML Templates
+- Template Rendering
+- Passing Data to Templates
+- Multiple Pages
+- Navigation
+- Template Inheritance
+- Static CSS
+- Static Images
+
+### Next Phase 🔜
+- Models
+- Migrations
+- Django ORM
+- CRUD Operations
 
 ## 🎯 Learning Goal
 
