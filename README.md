@@ -22,11 +22,25 @@ This repository contains my Django learning journey and practice projects.
 - Static CSS
 - Static Images
 
-### Next Phase 🔜
-- Models
-- Migrations
-- Django ORM
-- CRUD Operations
+## Phase 3: Database & CRUD ✅
+### Models & Database
+- Created Django Models
+- Generated Migrations
+- Applied Migrations
+- Django Admin Configuration
+- Created Superuser
+
+### Django ORM
+- Create Records (`create()`)
+- Read Records (`all()`, `get()`)
+- Filter Records (`filter()`)
+- Update Records (`save()`)
+- Delete Records (`delete()`)
+
+### Templates & Database Integration
+- Displayed Database Records in Templates
+- Student List Page
+- Student Details Page
 
 ## 🎯 Learning Goal
 
