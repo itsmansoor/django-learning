@@ -19,10 +19,20 @@
     <p>Age: {{ student.age }}</p>
     <p>Email: {{ student.email }}</p>
 </div>
+
+<a href="{% url 'update_student' student.id %}">
+    Edit
+</a>
+<a
+    href="{% url 'delete_student' student.id %}"
+    onclick="return confirm('Are you sure you want to delete this student?')"
+>
+    Delete
+</a>
+<hr>
 </body>
 </html>
 
-<hr>
 
 {% endfor %}
 
