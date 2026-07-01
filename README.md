@@ -42,6 +42,15 @@ This repository contains my Django learning journey and practice projects.
 - Student List Page
 - Student Details Page
 
+### ✅ Phase 4: Forms
+- HTML Forms
+- POST Requests
+- request.POST
+- Redirects
+- Create Student Form
+- Update Student Form
+- Delete Student with Confirmation
+  
 ## 🎯 Learning Goal
 
 To understand Django from fundamentals to full-stack web development.
