@@ -50,6 +50,7 @@ This repository contains my Django learning journey and practice projects.
 - Create Student Form
 - Update Student Form
 - Delete Student with Confirmation
+- ModelForm
   
 ## 🎯 Learning Goal
 
